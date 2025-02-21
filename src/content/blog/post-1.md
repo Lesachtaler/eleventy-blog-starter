@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 date: 2024-12-07
 title: Building a Blazing-Fast Website with Eleventy and Netlify
 description: This is the default description for the blog post. Customize it to
@@ -85,7 +85,9 @@ This tells Eleventy to process files in the `src/` folder and output them to a `
 #### 4\. Deploy to Netlify
 
 1.  Push your code to **GitHub, GitLab, or Bitbucket**.
+    
 2.  Log in to **Netlify**, create a new project, and link your repo.
+    
 3.  Set the build command as:
     
     ```bash
