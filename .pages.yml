@@ -24,6 +24,13 @@ content:
         type: text
         options:
          maxlength: 140
+      - name: cover
+        label: Cover
+        type: image
+        list: true
+        options:
+         path: src/content/images
+         extensions: [ jpg, jpeg, png ]
       - name: body
         label: Body
         type: rich-text
