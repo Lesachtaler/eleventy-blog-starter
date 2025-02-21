@@ -1,12 +1,11 @@
 ---
-published: false
+published: true
 date: 2024-12-07
 title: Building a Blazing-Fast Website with Eleventy and Netlify
 description: This is the default description for the blog post. Customize it to
   highlight your content!
 image:
   - /images/blog-placeholder-1.jpeg
-  - /images/post-1.jpeg
 ---
 As a UI designer with a passion for minimal and brutalist design, I’m always on the lookout for tools that offer simplicity, speed, and flexibility. Two of my favorite platforms to achieve this are **[Eleventy (11ty)](https://www.11ty.dev/)** and **[Netlify](https://www.netlify.com/)**. Together, they create a seamless workflow for building fast, modern, and ultra-lightweight websites.
 
