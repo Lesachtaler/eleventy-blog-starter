@@ -5,9 +5,9 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: 'src/posts'
+    path: 'src/content/blog'
     view:
-      fields: [ title, published, date ]
+      fields: [ title, published, date, description, image ]
     fields:
       - name: published
         label: Published
