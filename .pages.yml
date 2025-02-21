@@ -36,7 +36,7 @@ content:
         type: rich-text
   - name: site
     label: Site settings
-    path: src/_data/site.json
+    path: src/_data/metadata.json
     type: file
     fields:
       - name: title
