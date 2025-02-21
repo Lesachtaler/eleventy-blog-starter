@@ -24,8 +24,8 @@ content:
         type: text
         options:
          maxlength: 140
-      - name: cover
-        label: Cover
+      - name: image
+        label: Image
         type: image
         list: true
         options:
