@@ -29,7 +29,7 @@ content:
         type: image
         list: true
         options:
-         path: src/content/images
+         path: /images
          extensions: [ jpg, jpeg, png ]
       - name: body
         label: Body
